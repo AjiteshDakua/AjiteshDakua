@@ -34,6 +34,7 @@ My career goal is to grow as a software developer in the IT industry and contrib
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AjiteshDakua&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+https://github.com/users/AjiteshDakua/achievements/yolo
 
 
 ---

@@ -47,7 +47,19 @@ patterns, and learning data analysis and machine learning techniques.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AjiteshDakua&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-https://github.com/users/AjiteshDakua/achievements/yolo
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AjiteshDakua&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/AjiteshDakua?tab=achievements">
+    View My GitHub Achievements →
+  </a>
+</p>
 
 
 ---

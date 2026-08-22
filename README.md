@@ -11,12 +11,12 @@ including REST APIs, authentication, role-based applications, and
 database-driven platforms. I also enjoy working with data, exploring
 patterns, and learning data analysis and machine learning techniques.
 
-🔭 Currently working on: Full-stack web and data-driven projects
-🌱 Currently learning: Advanced backend development, Data Science, Data Analytics, and Machine Learning
-👯 Looking to collaborate on: Full-stack, data analytics, and open-source projects
-💬 Ask me about: React, Node.js, Express.js, REST APIs, MongoDB, Python, and Data Analytics
-📫 Reach me: ajiteshdakua8@gmail.com
-⚡ Fun fact: I enjoy learning by building real-world projects and exploring data
+🔭 **Currently working on:** Full-stack web and data-driven projects <br>
+🌱 **Currently learning:** Advanced backend development, Data Science, Data Analytics, and Machine Learning <br>
+👯 **Looking to collaborate on:** Full-stack, data analytics, and open-source projects <br>
+💬 **Ask me about:** React, Node.js, Express.js, REST APIs, MongoDB, Python, and Data Analytics <br>
+📫 **Reach me:** [ajiteshdakua8@gmail.com](mailto:ajiteshdakua8@gmail.com) <br>
+⚡ **Fun fact:** I enjoy learning by building real-world projects and exploring data
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajitesh-dakua-aba38a28a) 

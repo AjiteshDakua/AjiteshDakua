@@ -18,7 +18,9 @@ patterns, and learning data analysis and machine learning techniques.
 📫 **Reach me:** [ajiteshdakua8@gmail.com](mailto:ajiteshdakua8@gmail.com) <br>
 ⚡ **Fun fact:** I enjoy learning by building real-world projects and exploring data
 
-# 🌐 Connect With Me
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/ajitesh-dakua-aba38a28a" target="_blank">
@@ -60,6 +62,7 @@ patterns, and learning data analysis and machine learning techniques.
 ### 🛠️ Tools & Deployment
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+---
 
 # 📊 GitHub Stats
 
@@ -83,6 +86,8 @@ patterns, and learning data analysis and machine learning techniques.
 
 </div>
 
+---
+
 # 📈 GitHub Activity
 
 <div align="center">
@@ -91,8 +96,8 @@ patterns, and learning data analysis and machine learning techniques.
 
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AjiteshDakua&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AjiteshDakua&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
 
 ---
@@ -108,7 +113,7 @@ explore my projects, or connect with me.
 ### 💙 Let's Build, Learn & Grow Together
 
 </div>
------
+---
 
 [![](https://visitcount.itsvg.in/api?id=AjiteshDakua&icon=0&color=0)](https://visitcount.itsvg.in)
 

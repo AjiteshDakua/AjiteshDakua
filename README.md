@@ -61,15 +61,26 @@ patterns, and learning data analysis and machine learning techniques.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AjiteshDakua&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AjiteshDakua&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AjiteshDakua&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<!-- Snake Game Repo View -->
+# 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AjiteshDakua&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" alt="Ajitesh's GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AjiteshDakua&theme=blue_navy&hide_border=false" alt="Ajitesh's GitHub Streak"/>
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AjiteshDakua&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Ajitesh's Top Languages" />
+
+</div>
+
+<!-- 🐍 Snake Game -->
+
+<div align="center">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
 </div>
 
 # 📈 GitHub Activity
